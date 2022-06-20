@@ -1,0 +1,23 @@
+#toDo-form{
+    margin-left: 10px;
+}
+#toDo-form input {
+    width: 242px;
+  }
+
+#toDo-list {
+    width: 620px;
+    height: 355px;
+    list-style-type: "👍 ";
+    overflow: scroll;
+  }
+  
+  .button-style {
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: gray;
+    text-shadow: 1px 1px 1px black;
+    background-color: rgba(1, 1, 1, 0);
+  }
+

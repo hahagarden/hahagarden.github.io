@@ -1,0 +1,27 @@
+#weather {
+    display: inline-flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 250px;
+  }
+  
+  #weather span {
+    margin-left: 10px;
+  }
+  
+  #weather div {
+    display: flex;
+    align-items: center;
+  }
+
+#time {
+    margin-left: 10px;
+    width: 150px;
+    margin-bottom: 30px;
+  }
+  #time h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  

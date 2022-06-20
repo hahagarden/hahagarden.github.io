@@ -16,6 +16,7 @@ function onGeoSuccess(position) {
       city.innerText = `@${data.name}`;
       temper.innerText = `${data.main.temp}℃`;
       weather.setAttribute("src", weatherIconAddress);
+      weatherDiv.classList.add("weather-border");
     });
 }
 
