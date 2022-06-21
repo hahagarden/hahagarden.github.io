@@ -9,7 +9,7 @@
   width: 620px;
   height: 105px;
   list-style-type: "👍 ";
-  overflow: hidden scroll;
+  overflow: auto;
 }
 
 .button-style {
